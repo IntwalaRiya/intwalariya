@@ -1,6 +1,6 @@
 **Hi there 👋**
 ---
-My name is Riya Intwala, and I am a passionate data engineer, scientist and analyst with a strong foundation in Python, Power BI, SQL, ETL pipelines and AWS. I recently graduated with a Master's in Applied Computer Science from the Dalhousie University, Nova Scotia, Canada, achieving a GPA of 3.7. I am AWS Certified Data Engineer - Associate
+My name is Riya Intwala, and I am a passionate data engineer, scientist and analyst with a strong foundation in Python, Power BI, SQL, ETL pipelines and AWS. I am currently working as an Assoc Eng System Analyst / Data Analyst at FedEx (Federal Express Corporation). I am AWS Certified Data Engineer - Associate
 
 🌍 **Location**: Memphis, TN / Bethesda, MD <br>
 ✉️ **Email**: [Riya Intwala](intwalariya001@gmail.com) <br>
