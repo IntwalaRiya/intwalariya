@@ -3,11 +3,11 @@
 My name is Riya Intwala, and I am a passionate data engineer, scientist and analyst with a strong foundation in Python, Power BI, SQL, ETL pipelines and AWS. I recently graduated with a Master's in Applied Computer Science from the Dalhousie University, Nova Scotia, Canada, achieving a GPA of 3.7. I am AWS Certified Data Engineer - Associate
 
 🌍 **Location**: Memphis, TN / Bethesda, MD <br>
-✉️ **Email**: [Riya Intwala] (intwalariya001@gmail.com) <br>
+✉️ **Email**: [Riya Intwala](intwalariya001@gmail.com) <br>
 💻 **Company**: FedEx (Federal Express Corporation) <br>
 🌐 I am always eager to collaborate on data-driven projects and explore cutting-edge technologies. <br>
-🤝 Feel free to connect with me on [https://www.linkedin.com/in/riya-intwala/]LinkedIn or explore my experiences further. <br>
-📄 Know about my experiences from my Resume and [Github] (https://github.com/IntwalaRiya). <br>
+🤝 Feel free to connect with me on LinkedIn[https://www.linkedin.com/in/riya-intwala/] or explore my experiences further. <br>
+📄 Know about my experiences from my Resume and [Github](https://github.com/IntwalaRiya). <br>
 
 ---
 
@@ -55,47 +55,47 @@ My name is Riya Intwala, and I am a passionate data engineer, scientist and anal
 ---
 
 ## 🚀 Projects
-### [ShiftSync] (https://github.com/IntwalaRiya/ShiftSync)
+### [ShiftSync](https://github.com/IntwalaRiya/ShiftSync)
 **Duration**: May 2023 - Aug 2023  
 **Description**: ShiftSync helps volunteers self-register for events and automates event-volunteer matching based on schedules. AWS services like SNS, Secrets Manager, and CloudFormation were used for security and efficient deployment. <br>
 **Tech Stack**: React, Python, AWS (SNS, Secrets Manager, CloudFormation, EC2, Lambda)
 
-### [ShopApp] (https://github.com/IntwalaRiya/ShopApp)
+### [ShopApp](https://github.com/IntwalaRiya/ShopApp)
 **Duration**: Sep 2023 - Dec 2023 <br>
 **Description:** ShopApp is a platform for retailing electronic goods, built using React for the frontend, Node.js for the backend, and MongoDB for database management. The app was transitioned to AWS for scalability and cost-efficiency. <br>
 **Tech Stack**: React, Node.js, MongoDB, AWS (EC2, Lambda, S3, DynamoDB, API Gateway), Python
 
-### [TriviaTitans] (https://github.com/IntwalaRiya/TriviaTitans)
+### [TriviaTitans](https://github.com/IntwalaRiya/TriviaTitans)
 **Duration**: May 2023 - Aug 2023  
 **Description**: TriviaTitans is a serverless online trivia game built using multiple cloud platforms. It includes features for creating teams, live competition, and tracking rankings. Admins can view detailed analytics on user performance. <br>
 **Tech Stack**: React, Python, AWS (SNS, S3, Lambda, DynamoDB), GCP (Cloud Run, Firestore)
 
-### [Reboundr] (https://github.com/IntwalaRiya/Reboundr)
+### [Reboundr](https://github.com/IntwalaRiya/Reboundr)
 **Duration**: Jan 2023 - Apr 2023  
 **Description**: Reboundr is a web app helping job seekers, particularly those laid off, find employment. It assists employers in recruiting candidates with specific skill sets. The app is fully responsive and optimized using Material UI. <br>
 **Tech Stack**: React, Node.js, Express, MongoDB, Material UI
 
-### [Reliable Kitchen] (https://github.com/IntwalaRiya/ReliableKitchen)
+### [Reliable Kitchen](https://github.com/IntwalaRiya/ReliableKitchen)
 **Duration**: Sep 2022 - Dec 2022  
 **Description**: ReliableKitchen is a web app designed to help restaurant owners manage kitchen schedules and inventories. It follows Test-Driven Development (TDD) and uses S.O.L.I.D principles for clean code and CI/CD for deployment. <br>
 **Tech Stack**: Java, Spring Boot, MySQL, Heroku
 
-### [Gujarati Character Recognition] (https://github.com/IntwalaRiya/Gujarati-Character-Recognition)
+### [Gujarati Character Recognition](https://github.com/IntwalaRiya/Gujarati-Character-Recognition)
 **Duration**: Dec 2019 - Apr 2021  
 **Description:** Designed and built CNN and LSTM machine-learning models capable of accurately predicting handwritten Gujarati characters with accuracy scores of 85% and 76%, respectively. <br>
 **Tech Stack**: Python, Keras, TensorFlow, Scikit-learn, Pandas, Numpy, Google Colab.
 
-### [Generative Adversarial Network for Gujarati Characters] (https://github.com/IntwalaRiya/GAN_Generated_data_recognition)
+### [Generative Adversarial Network for Gujarati Characters](https://github.com/IntwalaRiya/GAN_Generated_data_recognition)
 **Duration**: May 2020 - Jul 2020  
 **Description:** Developed a Generative Adversarial Network (GAN) to generate synthetic Gujarati handwritten characters. <br>
 **Tech Stack**: Python, Keras, TensorFlow, Scikit-learn, Pandas, Numpy, Google Colab.
 
-### [Music Player based on Speech Emotion] (https://github.com/IntwalaRiya/Music-Player-based-on-Speech-Emotion)
+### [Music Player based on Speech Emotion](https://github.com/IntwalaRiya/Music-Player-based-on-Speech-Emotion)
 **Duration**: Jul 2020 - Nov 2020 <br>
 **Description:** Developed a Flask-based web application that generates a list of songs based on the user's current mood using machine learning model. <br>
 **Tech Stack**: Flask, Python, Keras, TensorFlow, Numpy, Pandas, Librosa.  
 
-### [FoodHunt] (https://github.com/IntwalaRiya/FoodHunt)
+### [FoodHunt](https://github.com/IntwalaRiya/FoodHunt)
 **Duration**: Jul 2019 - Oct 2019 <br>
 **Description:** Developed a mobile application that provides a daily menu of food services located around the user and displays reviews and ratings for each service including special menu of the day. <br>
 **Tech Stack**: ReactNative, Firebase, Git, MS Word 
@@ -117,5 +117,5 @@ My name is Riya Intwala, and I am a passionate data engineer, scientist and anal
 
 ## ✨ Let's Connect
 I'm always eager to collaborate on innovative projects and continue learning. <br>
-📫 [Riya Intwala] (intwalariya001@gmail.com) <br>
-👉 Visit my LinkedIn (https://www.linkedin.com/in/riya-intwala/) <br>
+📫 [Riya Intwala](intwalariya001@gmail.com) <br>
+👉 [Visit my LinkedIn](https://www.linkedin.com/in/riya-intwala/) <br>
