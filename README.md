@@ -1,6 +1,6 @@
 **Hi there 👋**
 ---
-My name is Riya Intwala, and I am a passionate data engineer, scientist and analyst with a strong foundation in Python, Power BI, SQL, ETL pipelines and AWS. I am currently working as an Assoc Eng System Analyst / Data Analyst at FedEx (Federal Express Corporation). I am AWS Certified Data Engineer - Associate
+My name is Riya Intwala, and I am a passionate data engineer, scientist and analyst with a 2+ years of experience in Python, Power BI, SQL, ETL pipelines and AWS. I am currently working as an Assoc Eng System Analyst / Data Analyst at FedEx (Federal Express Corporation). I am AWS Certified Data Engineer - Associate
 
 🌍 **Location**: Memphis, TN / Bethesda, MD <br>
 ✉️ **Email**: [Riya Intwala](intwalariya001@gmail.com) <br>
@@ -50,7 +50,18 @@ My name is Riya Intwala, and I am a passionate data engineer, scientist and anal
 **Responsibilities**:
 - Enhanced data analysis tools for ongoing projects, improving data accessibility and report generation.  
 - Migrated repositories from GitLab to Azure DevOps, improving deployment processes.  
-- Produced technical documentation, including test cases and architecture review documents for data-driven projects.  
+- Produced technical documentation, including test cases and architecture review documents for data-driven projects.
+
+### Data Scientist
+**Duration**: Jul 2021 - Jul 2022 <br> 
+**Company**: Sarita Infotech Private Ltd. <br>
+**Location**: Navsari, Gujarat, India <br> 
+**Responsibilities**:
+- Designed machine learning models for regression and classification, increasing forecasting accuracy by 30%.
+- Cleaned and preprocessed large datasets using Python (Pandas, NumPy) and SQL.
+- Partnered with stakeholders to convert business problems into data science solutions.
+- Developed interactive dashboards in Power BI and Tableau, simplifying insights for non-technical users.
+- Applied NLP techniques to customer feedback analysis, helping improve customer satisfaction by 15%.
 
 ---
 
